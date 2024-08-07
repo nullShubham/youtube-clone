@@ -21,7 +21,7 @@ const SearchBar = ({ isSliderBtnVisible = true }) => {
                     )
                 }
                 <NavLink to="/">
-                    <img className='h-12 w-16  object-cover' src="../../Public/images/Logo.png" alt="Logo" />
+                    <img className='h-12 w-16  object-cover' src="https://imgs.search.brave.com/isHnl-HvU24tnCIrOMMlZJ9vLJeOwhY_NyulEcrdtBU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA4LzMyLzEyLzY2/LzM2MF9GXzgzMjEy/NjY4MV82akdIcm01/M21kUVo4MWV5bzA3/MHdJNTdsQW1ZMTNi/VC5qcGc" alt="Logo" />
                 </NavLink>
             </div>
             <div className='flex flex-[0.5] items-center border px-3 py-2 rounded-full'>
@@ -29,7 +29,7 @@ const SearchBar = ({ isSliderBtnVisible = true }) => {
                 <Search className='cursor-pointer' />
             </div>
             <div>
-                <img className='h-10 object-cover rounded-full w-10 cursor-pointer' src="../../Public/images/User.webp" alt="User Image" />
+                <img className='h-10 object-cover rounded-full w-10 cursor-pointer' src="https://imgs.search.brave.com/e1P8llO4y3Ig0mqJfmHAQR9_CqTeqne_Huep3xfWV34/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA4LzE0LzMyLzMx/LzM2MF9GXzgxNDMy/MzEyMV9hYW03MENG/bkRDTWVsYzFaWFJz/TXd5d1JvSGZGb09B/dS5qcGc" alt="User Image" />
             </div>
         </nav>
     )

@@ -43,19 +43,19 @@ const SideBarForSmallScreen = () => {
             <div className='px-3 py-3'>
 
                 <div className='flex items-center justify-center py-2 hover:bg-gray-100 rounded-lg cursor-pointer'>
-                    <img src='../../Public/images/User.webp' className='h-9 w-9 object-cover rounded-full' />
+                    <img src='https://imgs.search.brave.com/RhJPxmGci9V3vzUAyF7uMUbIQFJ4Oq3xPqXTipSFmcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/MTYxNTUyMC9waG90/by9wcm9maWxlLXBv/cnRyYWl0LW9mLWEt/cGVuc2l2ZS1tYW4u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWg2NHdRZjAzZi1R/OXFNdkp6WmtUS2hn/NVNiZTBGU2hjY1Vz/YXpJSU9ia0U9' className='h-9 w-9 object-cover rounded-full' />
                 </div>
                 <div className='flex items-center justify-center py-2 hover:bg-gray-100 rounded-lg cursor-pointer'>
-                    <img src='../../Public/images/User.webp' className='h-9 w-9 object-cover rounded-full' />
+                    <img src='https://imgs.search.brave.com/RhJPxmGci9V3vzUAyF7uMUbIQFJ4Oq3xPqXTipSFmcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/MTYxNTUyMC9waG90/by9wcm9maWxlLXBv/cnRyYWl0LW9mLWEt/cGVuc2l2ZS1tYW4u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWg2NHdRZjAzZi1R/OXFNdkp6WmtUS2hn/NVNiZTBGU2hjY1Vz/YXpJSU9ia0U9' className='h-9 w-9 object-cover rounded-full' />
                 </div>
                 <div className='flex items-center justify-center py-2 hover:bg-gray-100 rounded-lg cursor-pointer'>
-                    <img src='../../Public/images/User.webp' className='h-9 w-9 object-cover rounded-full' />
+                    <img src='https://imgs.search.brave.com/RhJPxmGci9V3vzUAyF7uMUbIQFJ4Oq3xPqXTipSFmcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/MTYxNTUyMC9waG90/by9wcm9maWxlLXBv/cnRyYWl0LW9mLWEt/cGVuc2l2ZS1tYW4u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWg2NHdRZjAzZi1R/OXFNdkp6WmtUS2hn/NVNiZTBGU2hjY1Vz/YXpJSU9ia0U9' className='h-9 w-9 object-cover rounded-full' />
                 </div>
                 <div className='flex items-center justify-center py-2 hover:bg-gray-100 rounded-lg cursor-pointer'>
-                    <img src='../../Public/images/User.webp' className='h-9 w-9 object-cover rounded-full' />
+                    <img src='https://imgs.search.brave.com/RhJPxmGci9V3vzUAyF7uMUbIQFJ4Oq3xPqXTipSFmcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/MTYxNTUyMC9waG90/by9wcm9maWxlLXBv/cnRyYWl0LW9mLWEt/cGVuc2l2ZS1tYW4u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWg2NHdRZjAzZi1R/OXFNdkp6WmtUS2hn/NVNiZTBGU2hjY1Vz/YXpJSU9ia0U9' className='h-9 w-9 object-cover rounded-full' />
                 </div>
                 <div className='flex items-center justify-center py-2 hover:bg-gray-100 rounded-lg cursor-pointer'>
-                    <img src='../../Public/images/User.webp' className='h-9 w-9 object-cover rounded-full' />
+                    <img src='https://imgs.search.brave.com/RhJPxmGci9V3vzUAyF7uMUbIQFJ4Oq3xPqXTipSFmcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/MTYxNTUyMC9waG90/by9wcm9maWxlLXBv/cnRyYWl0LW9mLWEt/cGVuc2l2ZS1tYW4u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWg2NHdRZjAzZi1R/OXFNdkp6WmtUS2hn/NVNiZTBGU2hjY1Vz/YXpJSU9ia0U9' className='h-9 w-9 object-cover rounded-full' />
                 </div>
             </div>
         </section>
@@ -100,23 +100,23 @@ const SideBarForBigScreen = () => {
                     <h5 className='font-medium opacity-75'>Subscribed</h5>
                 </div>
                 <div className='flex items-center py-2 hover:bg-gray-100 px-2 rounded-lg cursor-pointer gap-2'>
-                    <img src='../../Public/images/User.webp' className='h-9 w-9 object-cover rounded-full' />
+                    <img src='https://imgs.search.brave.com/RhJPxmGci9V3vzUAyF7uMUbIQFJ4Oq3xPqXTipSFmcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/MTYxNTUyMC9waG90/by9wcm9maWxlLXBv/cnRyYWl0LW9mLWEt/cGVuc2l2ZS1tYW4u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWg2NHdRZjAzZi1R/OXFNdkp6WmtUS2hn/NVNiZTBGU2hjY1Vz/YXpJSU9ia0U9' className='h-9 w-9 object-cover rounded-full' />
                     <h4 className='font-medium opacity-80'>PewDiePie</h4>
                 </div>
                 <div className='flex items-center py-2 hover:bg-gray-100 px-2 rounded-lg cursor-pointer gap-2'>
-                    <img src='../../Public/images/User.webp' className='h-9 w-9 object-cover rounded-full' />
+                    <img src='https://imgs.search.brave.com/RhJPxmGci9V3vzUAyF7uMUbIQFJ4Oq3xPqXTipSFmcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/MTYxNTUyMC9waG90/by9wcm9maWxlLXBv/cnRyYWl0LW9mLWEt/cGVuc2l2ZS1tYW4u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWg2NHdRZjAzZi1R/OXFNdkp6WmtUS2hn/NVNiZTBGU2hjY1Vz/YXpJSU9ia0U9' className='h-9 w-9 object-cover rounded-full' />
                     <h4 className='font-medium opacity-80'>PewDiePie</h4>
                 </div>
                 <div className='flex items-center py-2 hover:bg-gray-100 px-2 rounded-lg cursor-pointer gap-2'>
-                    <img src='../../Public/images/User.webp' className='h-9 w-9 object-cover rounded-full' />
+                    <img src='https://imgs.search.brave.com/RhJPxmGci9V3vzUAyF7uMUbIQFJ4Oq3xPqXTipSFmcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/MTYxNTUyMC9waG90/by9wcm9maWxlLXBv/cnRyYWl0LW9mLWEt/cGVuc2l2ZS1tYW4u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWg2NHdRZjAzZi1R/OXFNdkp6WmtUS2hn/NVNiZTBGU2hjY1Vz/YXpJSU9ia0U9' className='h-9 w-9 object-cover rounded-full' />
                     <h4 className='font-medium opacity-80'>PewDiePie</h4>
                 </div>
                 <div className='flex items-center py-2 hover:bg-gray-100 px-2 rounded-lg cursor-pointer gap-2'>
-                    <img src='../../Public/images/User.webp' className='h-9 w-9 object-cover rounded-full' />
+                    <img src='https://imgs.search.brave.com/RhJPxmGci9V3vzUAyF7uMUbIQFJ4Oq3xPqXTipSFmcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/MTYxNTUyMC9waG90/by9wcm9maWxlLXBv/cnRyYWl0LW9mLWEt/cGVuc2l2ZS1tYW4u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWg2NHdRZjAzZi1R/OXFNdkp6WmtUS2hn/NVNiZTBGU2hjY1Vz/YXpJSU9ia0U9' className='h-9 w-9 object-cover rounded-full' />
                     <h4 className='font-medium opacity-80'>PewDiePie</h4>
                 </div>
                 <div className='flex items-center py-2 hover:bg-gray-100 px-2 rounded-lg cursor-pointer gap-2'>
-                    <img src='../../Public/images/User.webp' className='h-9 w-9 object-cover rounded-full' />
+                    <img src='https://imgs.search.brave.com/RhJPxmGci9V3vzUAyF7uMUbIQFJ4Oq3xPqXTipSFmcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/MTYxNTUyMC9waG90/by9wcm9maWxlLXBv/cnRyYWl0LW9mLWEt/cGVuc2l2ZS1tYW4u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWg2NHdRZjAzZi1R/OXFNdkp6WmtUS2hn/NVNiZTBGU2hjY1Vz/YXpJSU9ia0U9' className='h-9 w-9 object-cover rounded-full' />
                     <h4 className='font-medium opacity-80'>PewDiePie</h4>
                 </div>
             </div>
