@@ -24,7 +24,7 @@ const Feed = () => {
 
   return (
     <>
-      {data.map(item => (
+      {data&& data.map(item => (
         <NavLink key={item?.id} to={`/watch/${item?.snippet?.categoryId}/${item?.id}`} className={`mb-4 hover:bg-slate-50 rounded-lg p-2 ${isSidebarOn ? "w-72" : "w-[20rem] "}  flex flex-col items-center`}>
           <div className={`${isSidebarOn ? "h-[9.7rem]" : "h-44"} rounded-lg overflow-hidden w-full`}>
             <img className=' h-full w-full object-cover' src={item?.snippet?.thumbnails?.standard?.url} alt="Logo" />
